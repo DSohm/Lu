@@ -29,8 +29,9 @@ body{
     text-align: center;
     color: white;
     z-index: 999; /* Asegura que el texto esté en la parte superior */
-    background: rgba(0, 0, 0, 0.6); /* Fondo semitransparente para mejor legibilidad */
+    background: none; /* Fondo semitransparente para mejor legibilidad */
     padding: 10px;
+    font-size: 24px;
 }
 .flower_wrapper{
     position: absolute;
