@@ -28,7 +28,7 @@ body{
     width: 100%;
     text-align: center;
     color: white;
-    background: linear-gradient(to top, #FFD1DC, #FFB6C1); /* Degradado en color palo rosa */
+    background-color: linear-gradient(to top, #FFD1DC, #FFB6C1); /* Degradado en color palo rosa */
     padding: 10px;
     font-size: 50px;
 }
