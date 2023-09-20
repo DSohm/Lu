@@ -28,7 +28,7 @@ body{
     width: 100%; /* Se extiende a lo ancho de la ventana */
     text-align: center;
     color: white;
-    background: none; /* Fondo semitransparente para mejor legibilidad */
+  background: #FFD1DC; /* Fondo semitransparente para mejor legibilidad */
     padding: 0px;
     font-size: 50px;
 }
