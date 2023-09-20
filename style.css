@@ -22,10 +22,10 @@ body{
 }
 
 .header {
-     position: absolute;
-    top: 10px; /* Ajusta la posición vertical según tu preferencia */
-    left: 50%;
-    transform: translateX(-50%);
+     position: fixed; /* Cambio a posición fija */
+    top: 0; /* La parte superior del elemento se alineará con la parte superior de la ventana del navegador */
+    left: 0;
+    width: 100%; /* Se extiende a lo ancho de la ventana */
     text-align: center;
     color: white;
     z-index: 999; /* Asegura que el texto esté en la parte superior */
