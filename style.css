@@ -28,9 +28,8 @@ body{
     width: 100%; /* Se extiende a lo ancho de la ventana */
     text-align: center;
     color: white;
-    z-index: 999; /* Asegura que el texto esté en la parte superior */
     background: none; /* Fondo semitransparente para mejor legibilidad */
-    padding: 10px;
+    padding: 0px;
     font-size: 50px;
 }
 .flower_wrapper{
