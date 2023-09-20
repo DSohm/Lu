@@ -31,7 +31,7 @@ body{
     z-index: 999; /* Asegura que el texto esté en la parte superior */
     background: none; /* Fondo semitransparente para mejor legibilidad */
     padding: 10px;
-    font-size: 24px;
+    font-size: 50px;
 }
 .flower_wrapper{
     position: absolute;
